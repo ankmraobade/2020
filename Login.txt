@@ -1,8 +1,8 @@
 <form action="#">  
 <table>  
 <tr>  
-      <td class="tdLabel"><label for="register_name" class="label">Enter name:</label></td>  
-      <td><input type="text" name="name" value="" id="register_name" style="width:160px"/></td>  
+     <td class="tdLabel"><label for="register_name" class="label">Enter name:</label></td>  
+     <td><input type="text" name="name" value="" id="register_name" style="width:160px"/></td>  
 </tr>  
 <tr>  
     <td class="tdLabel"><label for="register_password" class="label">Enter password:</label></td>  
